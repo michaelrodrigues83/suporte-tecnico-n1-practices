@@ -24,7 +24,7 @@ Abaixo está o mapeamento dos blocos práticos de aprendizado. Os relatórios de
 | Bloco Técnico | Competências e Ferramentas Desenvolvidas |
 | :---: | :--- |
 | **1** | **Fundamentos de Help Desk & Atendimento:** Conceitos de SLA, ciclo de vida de chamados, postura profissional e [Estudo de Caso Prático: Simulação de Atendimento N1 (Hardware)](./chamado-01-indisponibilidade-teclado.md). |
-| **2** | **Sistemas Operacionais & Administração:** Instalação, configuração, gerenciamento de usuários, permissões de arquivos e troubleshoot (Windows/Linux). |
+| **2** | **Sistemas Operacionais & Administração:** Instalação, configuração, gerenciamento de usuários, permissões de arquivos e [Estudo de Caso Prático: Simulação de Atendimento N1 (Permissões de Acesso)](./chamado-02-permissoes-e-usuarios.md). |
 | **3** | **Hardware & Arquitetura de Computadores:** Diagnóstico de falhas, barramentos, memórias, armazenamento e manutenção preventiva de estações de trabalho. |
 | **4** | **Redes de Computadores para Suporte:** Configuração de IP, testes de conectividade (ping, tracert, nslookup), DHCP, DNS e roteamento básico. |
 | **5** | **Ferramentas de Service Desk:** Utilização de sistemas de chamados, acesso remoto seguro, criação de bases de conhecimento e documentação de incidentes. |
