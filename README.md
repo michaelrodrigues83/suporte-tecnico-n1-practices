@@ -2,7 +2,7 @@
 
 Este repositório é um **ambiente estritamente acadêmico focado em simulações, estudos de caso e laboratórios práticos**. Os registros publicados aqui têm como objetivo documentar meu desenvolvimento profissional contínuo, **sem qualquer vínculo com experiências reais anteriores em ambiente corporativo**.
 
-📌 *Nota de Progresso: Este portfólio está em Andamento e Desenvolvimento Contínuo. Logo trarei Novos Cenários Simulados, Atualizações Técnicas e Relatórios de Laboratório conforme avanço nos módulos.*
+📌 *Nota de Progresso: Este portfólio está em Andamento e Desenvolvimento Contínuo. Logo trarei Novos Cenários Simulados, Atualizações Técnicas e Relatórios de Laboratório.*
 
 O propósito deste espaço é consolidar a base técnica essencial de *Help Desk* e *Service Desk* desenvolvida ao longo do curso **Analista de Suporte N1: Do Zero ao Primeiro Emprego** na **Udemy**, conectando a operação simulada de TI (Sistemas Operacionais, Redes e Hardware) com diretrizes de Segurança da Informação e GRC.
 
