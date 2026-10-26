@@ -29,7 +29,7 @@ Abaixo está o mapeamento dos blocos práticos de aprendizado. Os relatórios de
 | **2** | **Sistemas Operacionais & Administração:** Instalação, configuração, gerenciamento de usuários, permissões de arquivos e [Estudo de Caso Prático: Simulação de Atendimento N1 (Permissões de Acesso)](./chamado-02-permissoes-e-usuarios.md). |
 | **3** | **Hardware & Arquitetura de Computadores:** Diagnóstico de falhas, barramentos, memórias, armazenamento e manutenção preventiva de estações de trabalho. |
 | **4** | **Redes de Computadores para Suporte:** Configuração de IP, testes de conectividade (ping, tracert, nslookup), DHCP, DNS e roteamento básico. |
-| **5** | **Ferramentas de Service Desk:** Utilização de sistemas de chamados, acesso remoto seguro, criação de bases de conhecimento e documentação de incidentes. |
+| **5** | Ferramentas de Service Desk: Utilização de sistemas de chamados, acesso remoto seguro, [criação de bases de conhecimento e documentação de incidentes](./projeto-helpdesk-ficticio/). |
 
 ---
 ⚡ *Portfólio estruturado seguindo rigorosos princípios éticos de aprendizado real. Última atualização: Outubro de 2026.*
